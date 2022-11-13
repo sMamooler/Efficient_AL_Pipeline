@@ -1,0 +1,5 @@
+expname = ledgar_baseline_legalbert_repeat4
+dataset = ledgar
+num_experiment_repeats = 3
+categories = governing laws
+ckpt_path = nlpaueb/legal-bert-base-uncased

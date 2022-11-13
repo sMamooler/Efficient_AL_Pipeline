@@ -1,0 +1,7 @@
+expname = contract_nli_start_with_medoids_adapted_norm1
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Limited use,No reverse engineering,Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement,Explicit identification,Inclusion of verbally conveyed information,Inclusion of verbally conveyed information,No licensing
+start_with_medoids = True
+cluster_path = clustering/contract_nli/normalized/clusters/adapted_437-clusters.csv
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/res/contract_nli/

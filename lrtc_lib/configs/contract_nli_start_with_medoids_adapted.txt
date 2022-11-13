@@ -1,0 +1,7 @@
+expname = contract_nli_start_with_medoids_adapted
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Limited use,No reverse engineering,Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement,Explicit identification,Inclusion of verbally conveyed information,No licensing,No solicitation,None-inclusion of non-technical information,Permissible acquirement of similar information,Permissible development of similar information,Permissible post-agreement possession,Return of confidential information,Sharing with employees,Sharing with third-parties,Survival of obligations
+start_with_medoids = True
+cluster_path = clustering/contract_nli/clusters/adapted_437-clusters.csv
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/res/contract_nli/

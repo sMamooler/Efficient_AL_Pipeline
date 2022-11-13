@@ -1,0 +1,5 @@
+expname = repeat3_contract_nli_baseline_adapted
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = No reverse engineering,Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement,Limited use,Explicit identification,Inclusion of verbally conveyed information,No licensing,No solicitation,None-inclusion of non-technical information,Permissible acquirement of similar information,Permissible development of similar information,Permissible post-agreement possession,Return of confidential information,Sharing with employees,Sharing with third-parties,Survival of obligations
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/res/contract_nli/

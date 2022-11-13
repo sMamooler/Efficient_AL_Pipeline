@@ -1,0 +1,5 @@
+expname = contract_nli_homogeneity_distilled
+dataset = contract_nli
+categories = No reverse engineering,Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement,Limited use
+homogeneity = True
+cluster_dir = clustering/contract_nli/

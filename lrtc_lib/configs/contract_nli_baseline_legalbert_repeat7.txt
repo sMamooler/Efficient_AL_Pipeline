@@ -1,0 +1,5 @@
+expname = contract_nli_baseline_legalbert_repeat7
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Permissible development of similar information
+ckpt_path = nlpaueb/legal-bert-base-uncased

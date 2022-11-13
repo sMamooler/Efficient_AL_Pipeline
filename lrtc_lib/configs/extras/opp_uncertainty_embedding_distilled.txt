@@ -1,0 +1,4 @@
+expname = opp_uncertainty_embedding_distilled
+dataset = opp
+categories = First Party Collection/Use,International and Specific Audiences,Third Party Sharing/Collection,User Choice/Control
+uncertainty_embedding = True

@@ -1,0 +1,5 @@
+expname = contract_nli_baseline_legalbert_repeat12
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Survival of obligations
+ckpt_path = nlpaueb/legal-bert-base-uncased

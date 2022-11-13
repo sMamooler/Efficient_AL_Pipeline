@@ -1,0 +1,7 @@
+expname = repeat3_ledgar_start_with_medoids_adapted_norm2
+dataset = ledgar
+categories = counterparts
+start_with_medoids = True
+num_experiment_repeats = 3
+cluster_path = clustering/ledgar/normalized/clusters/adapted_442-clusters.csv
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/res/ledgar/

@@ -1,0 +1,5 @@
+expname = repeat3_ledgar_baseline_adapted
+dataset = ledgar
+num_experiment_repeats = 3
+categories = amendments,counterparts,entire agreements,governing laws,notices
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/res/ledgar/

@@ -1,0 +1,7 @@
+expname = repeat3_ledgar_start_with_medoids_distilled_norm1
+dataset = ledgar
+categories = amendments
+start_with_medoids = True
+num_experiment_repeats = 3
+cluster_path = clustering/ledgar/normalized/clusters/distilled_442-clusters.csv
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/output/ledgar/model-distillation-10epochs-2022-06-14_19-59-01/

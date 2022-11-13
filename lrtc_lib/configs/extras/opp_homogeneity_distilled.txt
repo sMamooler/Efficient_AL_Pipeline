@@ -1,0 +1,5 @@
+expname = opp_homogeneity_distilled
+dataset = opp
+categories = First Party Collection/Use,International and Specific Audiences,Third Party Sharing/Collection,User Choice/Control
+homogeneity = True
+cluster_dir = clustering/opp/

@@ -1,0 +1,5 @@
+expname = contract_nli_baseline_legalbert_repeat
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Explicit identification,Inclusion of verbally conveyed information,No licensing,No solicitation,None-inclusion of non-technical information,Permissible acquirement of similar information,Permissible development of similar information,Permissible post-agreement possession,Return of confidential information,Sharing with employees,Sharing with third-parties,Survival of obligations
+ckpt_path = nlpaueb/legal-bert-base-uncased

@@ -1,0 +1,5 @@
+expname = contract_nli_medoids_distilled
+dataset = contract_nli
+categories = Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement
+medoids = True
+cluster_dir = clustering/contract_nli/

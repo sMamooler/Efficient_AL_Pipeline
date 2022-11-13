@@ -1,0 +1,4 @@
+expname = contract_nli_uncertainty_embedding_distilled
+dataset = contract_nli
+categories = No reverse engineering,Notice on compelled disclosure,Permissible copy,Confidentiality of Agreement,Limited use
+uncertainty_embedding = True

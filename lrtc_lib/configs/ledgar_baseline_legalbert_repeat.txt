@@ -1,0 +1,5 @@
+expname = ledgar_baseline_legalbert_repeat
+dataset = ledgar
+num_experiment_repeats = 3
+categories = amendments,counterparts,entire agreements,governing laws,notices
+ckpt_path = nlpaueb/legal-bert-base-uncased

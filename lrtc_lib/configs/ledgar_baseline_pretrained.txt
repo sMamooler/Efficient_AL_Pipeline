@@ -1,0 +1,5 @@
+expname = once_ledgar_baseline_pretrained
+dataset = ledgar
+num_experiment_repeats = 1
+categories = counterparts,entire agreements,governing laws,notices
+ckpt_path = roberta-base

@@ -1,0 +1,7 @@
+expname = repeat3_contract_nli_start_with_medoids_distilled_norm1
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Limited use
+start_with_medoids = True
+cluster_path = clustering/contract_nli/normalized/clusters/distilled_437-clusters.csv
+ckpt_path = /nlp4sd/mamooler/checkpoints/domain_adaptation/output/contract-nli/model-distillation-10epochs-2022-06-18_14-11-39/

@@ -1,0 +1,5 @@
+expname = ledgar_baseline_legalbert_repeat3
+dataset = ledgar
+num_experiment_repeats = 3
+categories = entire agreements
+ckpt_path = nlpaueb/legal-bert-base-uncased

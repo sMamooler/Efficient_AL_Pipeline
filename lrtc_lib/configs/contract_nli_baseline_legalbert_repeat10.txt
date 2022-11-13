@@ -1,0 +1,5 @@
+expname = contract_nli_baseline_legalbert_repeat10
+dataset = contract_nli
+num_experiment_repeats = 3
+categories = Sharing with employees
+ckpt_path = nlpaueb/legal-bert-base-uncased

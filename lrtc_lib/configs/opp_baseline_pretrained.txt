@@ -1,0 +1,3 @@
+expname = opp_baseline_pretrained
+dataset = opp
+categories = First Party Collection/Use,International and Specific Audiences,Third Party Sharing/Collection,User Choice/Control
