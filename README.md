@@ -64,6 +64,16 @@ This script contains required function to produce figures 1 and 2 in the paper c
 This repository has been build up on [IBM's Low-Resource Text Classification Framework](https://github.com/IBM/low-resource-text-classification-framework) and borrows code from [Sentence Transformers](https://github.com/UKPLab/sentence-transformers), and [Huggingface Transformers](https://github.com/huggingface/transformers).
 
 ## Reference
+If you find this project useful, please consider citing it in your work :)
+```
+@article{Mamooler2022AnEA,
+  title={An Efficient Active Learning Pipeline for Legal Text Classification},
+  author={Sepideh Mamooler and R{\'e}mi Lebret and St{\'e}phane Massonnet and Karl Aberer},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2211.08112}
+}
+```
 
 
 
